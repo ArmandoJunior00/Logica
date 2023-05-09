@@ -1,4 +1,6 @@
 algoritmo "Contador"
+//  
+//  
 var
    salto,valor,contador: Inteiro
 inicio
